@@ -104,6 +104,8 @@ Pros:
 
 ![shrugs](https://www.whatsteroids.com/wp-content/uploads/2013/02/in-front-barbell-shrugs-a.jpg)
 
-### Barbells
+### Dumbbells
 
 Mye shit man kan gjøre... Denne listen er lang nok nå.
+
+Looky here: http://exrx.net/Lists/ExList/ShouldWt
