@@ -104,8 +104,16 @@ Pros:
 
 ![shrugs](https://www.whatsteroids.com/wp-content/uploads/2013/02/in-front-barbell-shrugs-a.jpg)
 
-### Dumbbells
+### Dumbbells (aka "manualer")
 
 Mye shit man kan gjøre... Denne listen er lang nok nå.
 
 Looky here: http://exrx.net/Lists/ExList/ShouldWt
+
+## Generic trening
+
+Step-by-step guide to success:
+* Fuckings bruk alle maskinene hvis det er maskiner.
+* Scooby!!!!
+  https://www.youtube.com/user/scooby1961/videos?view=0&sort=p&flow=grid
+* Kroppsvektstrening: Pushups, knebøy, pullups, etc
