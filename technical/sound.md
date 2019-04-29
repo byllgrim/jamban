@@ -12,3 +12,8 @@ https://www.youtube.com/watch?v=Gg5eaBncpj0
 At about 10:00 there is a change from clean to distorted sound.
 Look at this in a spectrograph to see what the hell happened.
 https://www.youtube.com/watch?v=1sFT_kt-04M
+
+# Synth bass (and 80s sound)
+
+Queen - Radio Ga Ga
+https://www.youtube.com/watch?v=uKltU4Uslxs
