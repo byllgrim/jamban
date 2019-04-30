@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=1sFT_kt-04M
 
 Queen - Radio Ga Ga
 https://www.youtube.com/watch?v=uKltU4Uslxs
+
+# Funk sound
+Vulfpeck - Sky Mall
+https://www.youtube.com/watch?v=KaBBWWj5h_c
