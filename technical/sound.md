@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=KaBBWWj5h_c
 # Drum n bass
 The Prototypes - Pale Blue Dot
 https://www.youtube.com/watch?v=JhiviKxRvbc
+
+# Semi-clean guitar and vocal FX
+Death - Politicians In My Eyes
+https://www.youtube.com/watch?v=ZcRhnSEwVlo
