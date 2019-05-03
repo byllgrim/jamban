@@ -35,3 +35,7 @@ Saxon - Crusader
 https://www.youtube.com/watch?v=u01fmdMytss
 Judas Pries - Rock Hard Ride Free
 https://youtu.be/mae5Ght8iBA
+
+# Rock/Metal drums and bass
+Megadeth - Trust
+https://youtu.be/UuTq2PhsBk4
