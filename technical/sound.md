@@ -29,3 +29,7 @@ https://www.youtube.com/watch?v=JhiviKxRvbc
 # Semi-clean guitar and vocal FX
 Death - Politicians In My Eyes
 https://www.youtube.com/watch?v=ZcRhnSEwVlo
+
+# Guitar solo
+Saxon - Crusader
+https://www.youtube.com/watch?v=u01fmdMytss
