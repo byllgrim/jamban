@@ -39,3 +39,7 @@ https://youtu.be/mae5Ght8iBA
 # Rock/Metal drums and bass
 Megadeth - Trust
 https://youtu.be/UuTq2PhsBk4
+
+# Full rock band
+Erce Arslan - Dream theater medley
+https://www.youtube.com/watch?v=YgLxF0oIlZU
