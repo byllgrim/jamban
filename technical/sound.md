@@ -36,6 +36,10 @@ https://www.youtube.com/watch?v=u01fmdMytss
 Judas Pries - Rock Hard Ride Free
 https://youtu.be/mae5Ght8iBA
 
-# Rock/Metal drums and bass
+# Rock/Metal drum, bass, guitar, vocal harmonies, ...
 Megadeth - Trust
 https://youtu.be/UuTq2PhsBk4
+
+# Heavy rock bass guitar
+Tool - The pot
+https://www.youtube.com/watch?v=R2F_hGwD26g
