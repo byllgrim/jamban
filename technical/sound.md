@@ -40,6 +40,14 @@ https://youtu.be/mae5Ght8iBA
 Megadeth - Trust
 https://youtu.be/UuTq2PhsBk4
 
+# Full rock band
+Erce Arslan - Dream theater medley
+https://www.youtube.com/watch?v=YgLxF0oIlZU
+
+# Drum kit eq & Rhytm guitar & Bass eq/comp
+MxPx - Lets Ride
+https://www.youtube.com/watch?v=a4HURRgdEI8
+
 # Heavy rock bass guitar
 Tool - The pot
 https://www.youtube.com/watch?v=R2F_hGwD26g
