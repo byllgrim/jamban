@@ -51,3 +51,7 @@ https://www.youtube.com/watch?v=a4HURRgdEI8
 # Heavy rock bass guitar
 Tool - The pot
 https://www.youtube.com/watch?v=R2F_hGwD26g
+
+# Backup vox harmonies
+Trang Fødsel - Kursiv
+https://www.youtube.com/watch?v=IDq3Sv9hK2A
