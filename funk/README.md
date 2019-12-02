@@ -29,3 +29,9 @@ Vi skal lage funk.
 * hurtige lyrics
 * snappy
 * off-beat?
+
+
+## Software
+
+* [Yoshimi](https://yoshimi.github.io/)
+* [Ardour](https://ardour.org/)
