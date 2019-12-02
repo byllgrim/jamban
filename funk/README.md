@@ -2,6 +2,9 @@
 
 Vi skal lage funk.
 
+> det tar meg og robin en time eller noe
+> 🙂
+
 
 ## Inspo
 
