@@ -9,3 +9,11 @@ Vi skal lage funk.
 * Rainbow goblins
 * Casiopea
 * Wolf's Pecs
+
+
+## Requirements
+
+* deilig bass groove
+* hurtige lyrics
+* snappy
+* off-beat?
