@@ -16,6 +16,13 @@ Vi skal lage funk.
 * Trang fødsel (for dynamikk)
 
 
+## Topic Suggestions
+
+* X-Mas?
+* Funk?
+* Karl Marx?
+
+
 ## Requirements
 
 * deilig bass groove
