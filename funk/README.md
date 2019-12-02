@@ -9,6 +9,8 @@ Vi skal lage funk.
 * Rainbow goblins
 * Casiopea
 * Wolf's Pecs
+* Ravi (for struktur)
+* Trang fødsel (for dynamikk)
 
 
 ## Requirements
