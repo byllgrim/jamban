@@ -29,7 +29,10 @@ Vi skal lage funk.
 * hurtige lyrics
 * snappy
   * Hvor mange BPM?
-    * Vulfpeck "It Gets Funkier" ~80 BPM
+    * ~80 (Vulfpeck - It Gets Funkier)
+    * ~145 (Knower - Overtime (live))
+    * ~145 (James Brown - I Feel Good)
+    * ~165 (Knower - Time Traveler (live))
 * off-beat?
 
 
