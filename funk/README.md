@@ -28,6 +28,8 @@ Vi skal lage funk.
 * deilig bass groove
 * hurtige lyrics
 * snappy
+  * Hvor mange BPM?
+    * Vulfpeck "It Gets Funkier" ~80 BPM
 * off-beat?
 
 
