@@ -26,10 +26,11 @@ Vi skal lage funk.
 * (~ 80) Vulfpeck - It Gets Funkier
 * (~110) Det Brune Punktum - Kom Lad Os Gå
 * (~118) Mystic Merlin - Haunting You
+* (~125) Rainbow Goblins - Mekonomen
+* (~140) Rainbow Goblins - Goburin goburin goburin
 * (~145) Knower - Overtime (live)
 * (~145) James Brown - I Feel Good
 * (~165) Knower - Time Traveler (live)
-* Rainbow goblins
 * Casiopea
 * Ravi (for struktur)
 * Trang fødsel (for dynamikk)
