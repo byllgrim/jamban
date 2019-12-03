@@ -6,16 +6,6 @@ Vi skal lage funk.
 > 🙂
 
 
-## Inspo
-
-* Det brune punktum
-* Rainbow goblins
-* Casiopea
-* Wolf's Pecs
-* Ravi (for struktur)
-* Trang fødsel (for dynamikk)
-
-
 ## Topic Suggestions
 
 * X-Mas?
@@ -28,12 +18,21 @@ Vi skal lage funk.
 * deilig bass groove
 * hurtige lyrics
 * snappy
-  * Hvor mange BPM?
-    * ~80 (Vulfpeck - It Gets Funkier)
-    * ~145 (Knower - Overtime (live))
-    * ~145 (James Brown - I Feel Good)
-    * ~165 (Knower - Time Traveler (live))
 * off-beat?
+
+
+## Inspo & BPM
+
+* (~ 80) Vulfpeck - It Gets Funkier
+* (~118) Mystic Merlin - Haunting You
+* (~145) Knower - Overtime (live)
+* (~145) James Brown - I Feel Good
+* (~165) Knower - Time Traveler (live)
+* Det brune punktum
+* Rainbow goblins
+* Casiopea
+* Ravi (for struktur)
+* Trang fødsel (for dynamikk)
 
 
 ## Software
