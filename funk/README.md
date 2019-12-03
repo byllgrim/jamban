@@ -24,11 +24,11 @@ Vi skal lage funk.
 ## Inspo & BPM
 
 * (~ 80) Vulfpeck - It Gets Funkier
+* (~110) Det Brune Punktum - Kom Lad Os Gå
 * (~118) Mystic Merlin - Haunting You
 * (~145) Knower - Overtime (live)
 * (~145) James Brown - I Feel Good
 * (~165) Knower - Time Traveler (live)
-* Det brune punktum
 * Rainbow goblins
 * Casiopea
 * Ravi (for struktur)
