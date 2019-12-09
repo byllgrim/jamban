@@ -45,3 +45,18 @@ Vi skal lage funk.
 
 * [Yoshimi](https://yoshimi.github.io/)
 * [Ardour](https://ardour.org/)
+
+
+## Lyrics Dump
+
+Secrete sexy,
+Impel madness.
+Skal bli, sjef
+
+Smack your hands together
+
+Underwater refrigerator
+
+I saw an underwater alligator money maker baby taker
+
+in the middle of min face
