@@ -60,3 +60,15 @@ Underwater refrigerator
 I saw an underwater alligator money maker baby taker
 
 in the middle of min face
+
+My mouth
+In the middle of your ass
+
+Except macbdonauds
+
+Makk b donauds
+
+Get down... To it?
+On it? With it?
+On the floor?
+Gimmie some more?
