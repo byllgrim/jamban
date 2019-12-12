@@ -6,11 +6,12 @@ Vi skal lage funk.
 > 🙂
 
 
-## Topic Suggestions
+## Topic
 
-* X-Mas?
-* Funk?
-* Karl Marx?
+* ~~X-Mas?~~
+* ~~Funk?~~
+* ~~Karl Marx?~~
+* Secret sexy & Implied madness
 
 
 ## Requirements
