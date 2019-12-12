@@ -45,6 +45,8 @@ Vi skal lage funk.
   * Piano?
 * Guitar: Clean, light, rhytmic
 
+No brass! Synths are gonna sounds the wrong kinda funky.
+
 ### Software
 
 * DAW: [Ardour](https://ardour.org/)
