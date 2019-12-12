@@ -6,14 +6,6 @@ Vi skal lage funk.
 > 🙂
 
 
-## Topic
-
-* ~~X-Mas?~~
-* ~~Funk?~~
-* ~~Karl Marx?~~
-* Secret sexy & Implied madness
-
-
 ## Requirements
 
 * deilig bass groove
@@ -44,11 +36,20 @@ Vi skal lage funk.
 
 ## Software
 
-* [Yoshimi](https://yoshimi.github.io/)
-* [Ardour](https://ardour.org/)
+* DAW: [Ardour](https://ardour.org/)
+* Drum sampler: [drumkv1](https://drumkv1.sourceforge.io/)
+* Synth: [Yoshimi](https://yoshimi.github.io/)
+* Effects: [calf](https://calf-studio-gear.org/)      
 
 
-## Lyrics Dump
+## Lyrics
+
+### Topic
+
+1. Secret sexy
+2. Implying madness
+
+### Drafts
 
 Secrete sexy,
 Impel madness.
