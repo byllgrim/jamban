@@ -34,12 +34,19 @@ Vi skal lage funk.
 * Trang fødsel (for dynamikk)
 
 
-## Software
+## Production Resources
+
+### Software
 
 * DAW: [Ardour](https://ardour.org/)
 * Drum sampler: [drumkv1](https://drumkv1.sourceforge.io/)
-* Synth: [Yoshimi](https://yoshimi.github.io/)
-* Effects: [calf](https://calf-studio-gear.org/)      
+* General synth: [Yoshimi](https://yoshimi.github.io/)
+* Audio effects: [calf](https://calf-studio-gear.org/)
+* Guitar effects: [guitarix](http://guitarix.org/)
+
+### Drum Samples
+
+[new jamban sound base](https://gitlab.com/byllgrim/njsb)
 
 
 ## Lyrics
