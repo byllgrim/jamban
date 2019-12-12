@@ -45,6 +45,8 @@ Vi skal lage funk.
   * Piano?
   * Fusion synth?
 * Guitar: Clean, light, rhytmic
+* Percussion:
+  * Egg shakers?
 
 No brass! Synths are gonna sounds the wrong kinda funky.
 
@@ -52,6 +54,9 @@ Inspo:
 * [Bass](https://www.youtube.com/watch?v=C-vLEFm8tNg)
 * [Clavinet sound](https://www.youtube.com/watch?v=fIAkTJGegJY)
 * [Keys play style](https://www.youtube.com/watch?v=fkhiBO3bBzE)
+* Fusion band:
+  * [Behringer](https://www.youtube.com/watch?v=55EqwFc2CHw)
+  * [Alfons Åberg](https://www.youtube.com/watch?v=h7R82Lp6Nw0)
 
 ### Software
 
