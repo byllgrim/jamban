@@ -43,6 +43,7 @@ Vi skal lage funk.
 * Keys:
   * Clavinet?
   * Piano?
+  * Fusion synth?
 * Guitar: Clean, light, rhytmic
 
 No brass! Synths are gonna sounds the wrong kinda funky.
