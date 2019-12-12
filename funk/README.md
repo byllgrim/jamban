@@ -34,7 +34,16 @@ Vi skal lage funk.
 * Trang fødsel (for dynamikk)
 
 
-## Production Resources
+## Production Resources(?)
+
+### Band Loadout
+
+* Drums: Acoustic, dry, punchy
+* Bass: Fingered
+* Keys:
+  * Clavinet?
+  * Piano?
+* Guitar: Clean, light, rhytmic
 
 ### Software
 
