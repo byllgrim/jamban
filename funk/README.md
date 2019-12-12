@@ -49,7 +49,8 @@ No brass! Synths are gonna sounds the wrong kinda funky.
 
 Inspo:
 * [Bass](https://www.youtube.com/watch?v=C-vLEFm8tNg)
-* [Clavinet](https://www.youtube.com/watch?v=fIAkTJGegJY)
+* [Clavinet sound](https://www.youtube.com/watch?v=fIAkTJGegJY)
+* [Keys play style](https://www.youtube.com/watch?v=fkhiBO3bBzE)
 
 ### Software
 
