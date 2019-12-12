@@ -47,6 +47,10 @@ Vi skal lage funk.
 
 No brass! Synths are gonna sounds the wrong kinda funky.
 
+Inspo:
+* [Bass](https://www.youtube.com/watch?v=C-vLEFm8tNg)
+* [Clavinet](https://www.youtube.com/watch?v=fIAkTJGegJY)
+
 ### Software
 
 * DAW: [Ardour](https://ardour.org/)
