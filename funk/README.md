@@ -47,8 +47,11 @@ Vi skal lage funk.
 * Guitar: Clean, light, rhytmic
 * Percussion:
   * Egg shakers?
-
-No brass! Synths are gonna sounds the wrong kinda funky.
+* Brass
+  * NO!
+    Synths are gonna sounds the wrong kinda funky.
+* Wind
+  * Maybe some flutes? Soundfonts are good enough I think.
 
 Inspo:
 * [Bass](https://www.youtube.com/watch?v=C-vLEFm8tNg)
