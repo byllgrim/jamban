@@ -63,9 +63,9 @@ Inspo:
 
 Famous synths/keys (for consideration):
 * Wurlitzer
-* Clavinet
-* Rhodes
-* Moog
+* [Clavinet](https://youtu.be/n7isaLru_lU?t=20)
+* [Rhodes](https://youtu.be/Qz_ogmjTrXA?t=83)
+* [Moog](https://youtu.be/CJfuP_EsOyE)
 * Cp80
 
 ### Software
