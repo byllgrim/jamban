@@ -62,11 +62,11 @@ Inspo:
   * [Alfons Åberg](https://www.youtube.com/watch?v=h7R82Lp6Nw0)
 
 Famous synths/keys (for consideration):
-* Wurlitzer
+* [Wurlitzer](https://youtu.be/EEYE1SMf7xI?t=40)
 * [Clavinet](https://youtu.be/n7isaLru_lU?t=20)
 * [Rhodes](https://youtu.be/Qz_ogmjTrXA?t=83)
 * [Moog](https://youtu.be/CJfuP_EsOyE)
-* Cp80
+* [Cp80](https://youtu.be/JvjwFcCTHhg?t=72)
 
 ### Software
 
