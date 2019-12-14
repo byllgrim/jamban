@@ -28,6 +28,7 @@ Vi skal lage funk.
 * (~145) James Brown - I Feel Good
 * (~160) Luis Cole - Mean It
 * (~165) __Knower__ - Time Traveler (live)
+* ~~( 174) Footloose - Kenny Loggins
 * ~~( 212) NOFX - You Will Lose Faith~~
 * ~~( 225) Black Dahlia Murder - Of God and Serpent, Of Spectre and Snake~~
 * Ravi (for struktur)
