@@ -61,6 +61,13 @@ Inspo:
   * [Behringer](https://www.youtube.com/watch?v=55EqwFc2CHw)
   * [Alfons Åberg](https://www.youtube.com/watch?v=h7R82Lp6Nw0)
 
+Famous synths/keys (for consideration):
+* Wurlitzer
+* Clavinet
+* Rhodes
+* Moog
+* Cp80
+
 ### Software
 
 * DAW: [Ardour](https://ardour.org/)
