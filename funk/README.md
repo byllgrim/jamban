@@ -41,10 +41,7 @@ Vi skal lage funk.
 
 * Drums: Acoustic, dry, punchy
 * Bass: Fingered
-* Keys:
-  * Clavinet?
-  * Piano?
-  * Fusion synth?
+* Keys: Clavinet
 * Guitar: Clean, light, rhytmic
 * Percussion:
   * Egg shakers?
