@@ -44,3 +44,7 @@ Latest-winners
 
 Subjective ranked lists:
 * https://www.smoothradio.com/news/music/eurovision/best-songs-ever-list/
+
+Raban's euro picks:
+* ooh aah https://www.youtube.com/watch?v=eh_KwCI4tUA&t=74s
+* shum ukraine https://www.youtube.com/watch?v=U7-dxzp6Jvs
