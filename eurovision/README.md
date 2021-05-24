@@ -42,16 +42,21 @@ Latest-winners
 * 2007 serbia https://www.youtube.com/watch?v=FSueQN1QvV4 (kjedelig film-musikk balade, ble lit metall)
 * 2006 hard rock hallaluja
 * ...
+
+Uh... what:
+* 2020 island https://www.youtube.com/watch?v=1HU7ocv3S2o
+* 2006 lithuania https://www.youtube.com/watch?v=DBAdOlQPbwg (nice try...)
 * 2000 danmark https://www.youtube.com/watch?v=F-JwiYlg5Gc (what, var dette eurovision?)
-* ...
 * 1976 uke? https://www.youtube.com/watch?v=6OW1JJwqVRQ (beatles rip-off)
-* ...
 * 1974 sverige https://www.youtube.com/watch?v=3FsVeMz1F5c (waterloo...)
 
 Subjective ranked lists:
 * https://www.smoothradio.com/news/music/eurovision/best-songs-ever-list/
+* https://www.udiscovermusic.com/stories/best-eurovision-songs/
 
 Raban's euro picks:
 * ooh aah https://www.youtube.com/watch?v=eh_KwCI4tUA&t=74s
 * shum ukraine https://www.youtube.com/watch?v=U7-dxzp6Jvs
 * euphoria https://www.youtube.com/watch?v=Pfo-8z86x80
+* the flag https://www.youtube.com/watch?v=XT6yOIC6ihI
+* sieben https://www.youtube.com/watch?v=hfjHJneVonE
