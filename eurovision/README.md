@@ -38,4 +38,6 @@ Latest-winners
 * 2010 Deutchland https://www.youtube.com/watch?v=7pL9vdpSvnY (2000s pop-musikk, fegende radio-like)
 * 2009 (nope...)
 * 2008 russia https://www.youtube.com/watch?v=-72s4WzUcKI (weird RnB balade)
-* 2007 serbia https://www.youtube.com/watch?v=FSueQN1QvV4 (kjedelig film-musikk balade)
+* 2007 serbia https://www.youtube.com/watch?v=FSueQN1QvV4 (kjedelig film-musikk balade, ble lit metall)
+* 2006 hard rock hallaluja
+* ...
