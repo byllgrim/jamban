@@ -9,3 +9,8 @@ Inspo:
 Analyse:
 * Går sakte som faen
 * Nesten alltid piano? (hvis ikke det er "rock balade")
+* Har "mystiske" synther
+* Strykere
+* Mye/lang/stor (men subtle) reverb
+* Ekko av krigstrommer
+* MASSIV vokal-performance
