@@ -8,6 +8,7 @@ Analyse:
 * Må skille se ut med no weird shit
 * Må "komme ra hjertet" eller "ha en historie"
     * (ha mye "passion" eller "personlighet")
+* Noen ganger folkemusikk-instrumenter
 
 Inspiration from eurovision 2021:
 * [Ukraina](https://www.youtube.com/watch?v=U7-dxzp6Jvs)
@@ -29,4 +30,7 @@ Latest-winners
 * 2018 israel https://www.youtube.com/watch?v=84LBjXaeKk4 (jalla-musikk)
 * 2017 portugal https://www.youtube.com/watch?v=Qotooj7ODCM (kjedelig balade med "følelser")
 * 2016 ukraina https://www.youtube.com/watch?v=B-rnM-MwRHY (vant av politisk sympati pga rusland)
-* 2015 Sverige https://www.youtube.com/watch?v=5sGOwFVUU0I (kjedelig shit)
+* 2015 Sverige https://www.youtube.com/watch?v=5sGOwFVUU0I (kjedelig shit, generisk radio/dance EDM shit)
+* 2014 Austria https://www.youtube.com/watch?v=SaolVEJEjV4 (powerful feelings balade shit, lgbt-sympati)
+* 2013 danmark https://www.youtube.com/watch?v=k59E7T0H-Us (driiit kjedelig)
+* 2012 Sverige https://www.youtube.com/watch?v=Pfo-8z86x80 (catchy EDM)
