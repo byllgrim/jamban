@@ -4,6 +4,7 @@ I has to SCREAM "euro". Like that [old teen movie](https://www.youtube.com/watch
 
 Analyse:
 * Trenger en "alle kan synge med"
+    * "Woaooaa"
 * Må skille se ut med no weird shit
 * Må "komme ra hjertet" eller "ha en historie"
     * (ha mye "passion" eller "personlighet")
@@ -27,3 +28,5 @@ Latest-winners
 * 2019 netherlands https://www.youtube.com/watch?v=R3D-r4ogr7s (fans ballade)
 * 2018 israel https://www.youtube.com/watch?v=84LBjXaeKk4 (jalla-musikk)
 * 2017 portugal https://www.youtube.com/watch?v=Qotooj7ODCM (kjedelig balade med "følelser")
+* 2016 ukraina https://www.youtube.com/watch?v=B-rnM-MwRHY (vant av politisk sympati pga rusland)
+* 2015 Sverige https://www.youtube.com/watch?v=5sGOwFVUU0I (kjedelig shit)
