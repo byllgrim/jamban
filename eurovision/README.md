@@ -41,3 +41,6 @@ Latest-winners
 * 2007 serbia https://www.youtube.com/watch?v=FSueQN1QvV4 (kjedelig film-musikk balade, ble lit metall)
 * 2006 hard rock hallaluja
 * ...
+
+Subjective ranked lists:
+* https://www.smoothradio.com/news/music/eurovision/best-songs-ever-list/
