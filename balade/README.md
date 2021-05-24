@@ -14,3 +14,4 @@ Analyse:
 * Mye/lang/stor (men subtle) reverb
 * Ekko av krigstrommer
 * MASSIV vokal-performance
+* Deeeeep bass
