@@ -12,6 +12,6 @@ Analyse:
 * Har "mystiske" synther
 * Strykere
 * Mye/lang/stor (men subtle) reverb
-* Ekko av krigstrommer
+* Ekko av krigstrommer / akkustisk basic slagverk
 * MASSIV vokal-performance
 * Deeeeep bass
