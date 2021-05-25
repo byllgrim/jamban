@@ -12,7 +12,16 @@ Analyse:
     * (ha mye "passion" eller "personlighet")
 * Noen ganger folkemusikk-instrumenter
     * > jeg tror trygt vi kan si at hvis vi skal lage eurovision-låt så må det være folkemusikk + et eller annet
-* ABBA
+* ~~ABBA~~
+    * > stil: ukraina 2021
+
+Lyrics:
+'''
+ya gonna wanna gonna wanna wanna gonna
+shoulda had a had I had a should I had wanted
+would I better shove a hat I had down the gutter
+cannot ram a man around a room and another
+'''
 
 Inspiration from eurovision 2021:
 * [Ukraina](https://www.youtube.com/watch?v=U7-dxzp6Jvs)
