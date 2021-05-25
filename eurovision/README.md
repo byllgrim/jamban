@@ -9,6 +9,7 @@ Analyse:
 * Må "komme ra hjertet" eller "ha en historie"
     * (ha mye "passion" eller "personlighet")
 * Noen ganger folkemusikk-instrumenter
+    * > jeg tror trygt vi kan si at hvis vi skal lage eurovision-låt så må det være folkemusikk + et eller annet
 * ABBA
 
 Inspiration from eurovision 2021:
