@@ -6,6 +6,8 @@ Analyse:
 * Trenger en "alle kan synge med"
     * "Woaooaa"
 * Må skille se ut med no weird shit
+    * Og musikkvideo
+    * > også må vi ta av oss på overkroppen
 * Må "komme ra hjertet" eller "ha en historie"
     * (ha mye "passion" eller "personlighet")
 * Noen ganger folkemusikk-instrumenter
