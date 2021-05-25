@@ -16,12 +16,12 @@ Analyse:
     * > stil: ukraina 2021
 
 Lyrics:
-'''
+```
 ya gonna wanna gonna wanna wanna gonna
 shoulda had a had I had a should I had wanted
 would I better shove a hat I had down the gutter
 cannot ram a man around a room and another
-'''
+```
 
 Inspiration from eurovision 2021:
 * [Ukraina](https://www.youtube.com/watch?v=U7-dxzp6Jvs)
